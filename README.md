@@ -1,4 +1,4 @@
-
+! [logo] ( https://github.com/deepakrathod1980/deepakrathod1980/blob/main/git%20hub%20link.png)
 <h1 align="center">Hi 👋, I'm Deepak Rathod</h1>
 <h3 align="center">A passionate about "Crafting Tomorrow's World: Uniting AI and Data Science Minds"</h3>
 <img align="right" alt="coding"width="400"src=https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbV9SdXhQT0E2clVmdURLdmNueUVIdnFkNG5qUXxBQ3Jtc0tuVlV6bmFmeUtpU1RDdXl4aGpVZHpVa25zWVN6YXNaOXNIQjEzWUxGQ1NkX0ZoQ0RWZk9kNjRwNmpMYU1pdG9Sb0htM2tiZmRmR1F5SkwxRERtdG8wOW1JYjVTd2NVQ0JOeGlDcHN3LXVydHpIRF9kUQ&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0
